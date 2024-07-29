@@ -10,7 +10,7 @@ from tensorflow.keras import regularizers
 import os
 import matplotlib.pyplot as plt
 
-train_folder='/Users/yuming/DataSet/CUB200/train'ㅊ
+train_folder='/Users/yuming/DataSet/CUB200/train'
 test_folder='/Users/yuming/DataSet/CUB200/val'
 
 class_reduce=0.5
